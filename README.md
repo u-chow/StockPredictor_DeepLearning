@@ -7,13 +7,13 @@ This repository contains two Jupyter notebooks (.ipynb) for stock price predicti
 1. LSTM (Long Short-Term Memory)
  - Captures short-term dependencies in stock price movement.
  - Performs well for immediate forecasting.
- - Code: [LSTM.ipynb](./LSTM.ipynb)
+ - Code: [LSTM.ipynb](StockPredictor_DeepLearning/LSTM.ipynb)
 
 2. Transformer + LSTM (Hybrid Model)
  - Uses a Transformer Encoder to capture long-term dependencies.
  - Passes extracted features through an LSTM for final prediction.
  - Provides better long-term trend forecasting.
- - Code: [Transformer_LSTM.ipynb](./Transformer_LSTM.ipynb)
+ - Code: [Transformer_LSTM.ipynb](StockPredictor_DeepLearning/Transformer_LSTM.ipynb)
 
 ## Dataset
  - Stock: NVIDIA (NVDA)
